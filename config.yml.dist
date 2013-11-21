@@ -1,0 +1,22 @@
+# Configuration file for jQuery Picasa Gallery
+
+# Your Picasa public username
+username: ''
+
+# hidden album names
+hide_albums: ['Profile Photos', 'Scrapbook Photos', 'Instant Upload', 'Photos from posts']
+
+# true to display link to original album on Google Picasa
+link_to_picasa: 'false'
+
+# width of album and photo thumbnails
+thumbnail_width: '160'
+
+# title shown above album list
+title: 'Gallery'
+
+# true to display photos inline instead of using the fancybox plugin
+inline: 'false'
+
+# true to automatically open first image in fancybox after user clicks an album
+auto_open: 'false'
